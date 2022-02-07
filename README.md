@@ -7,7 +7,7 @@ I'm **Blake**, a 34 year old man born and raised in the sad and loney cornfields
 <!-- /discord/:serverId img.shields.io has discord links -->
 ![](https://visitor-badge.glitch.me/badge?page_id=bartenbach.bartenbach)
 
-### ⚡ Current Daily Grind
+### 💻 Daily Grind
 <!--START_SECTION:waka-->
 ```text
 Markdown   1 hr 10 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.59 % 
@@ -18,16 +18,24 @@ conf       21 mins         █▓░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+### ⚡ Skills
+<p float="left">
+  <img height="25" alt="Ansible" src="https://img.shields.io/badge/ansible%20-%2343853D.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img height="25" alt="Java" src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=%23F7DF1E"/>
+  <img height="25" alt="Linux" src="https://img.shields.io/badge/linux%20-%23007ACC.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
+  <img height="25" alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
 ### 📚 Learning
 <p float="left">
-  <img height="20" alt="Go" src="https://img.shields.io/badge/rust-%2300ADD8.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img height="20" alt="Haskell" src="https://img.shields.io/badge/haskell-%2314354C.svg?&style=for-the-badge&logo=haskell&logoColor=white"/>
+  <img height="25" alt="Go" src="https://img.shields.io/badge/rust-%2300ADD8.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img height="25" alt="Haskell" src="https://img.shields.io/badge/haskell-%2314354C.svg?&style=for-the-badge&logo=haskell&logoColor=white"/>
 </p>
 
 ### 💬 Social
 <p float="left">
   <a href="https://www.linkedin.com/in/blakebartenbach">
-  <img height="20" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img height="25" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
