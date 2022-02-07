@@ -1,5 +1,5 @@
 # ![](https://github.githubassets.com/images/mona-whisper.gif)こんにちは!
-I'm **Blake**, a 34 year old man born and raised in Omaha, Nebraska. I currently work for 🆖 as a software engineer, mostly specializing in DevOps.
+👋 I'm **Blake**, a 34 year old man born and raised in Omaha, Nebraska. I currently work for 🆖 as a software engineer, mostly specializing in DevOps.
 
 🖊️ I occasionally write blog posts, but there isn't a specific topic or format. Posts can be found on my website at https://bartenbach.io
 
