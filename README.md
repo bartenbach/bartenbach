@@ -1,5 +1,5 @@
 # ![](https://github.githubassets.com/images/mona-whisper.gif)こんにちは!
-I'm **Blake**, a 34 year old man born and raised in the sad and loney cornfields of Nebraska (just kidding, people do live here).
+I'm **Blake**, a 34 year old man born and raised in Omaha, Nebraska. I currently work for 🆖 as a software engineer, mostly specializing in DevOps.
 
 🖊️ I occasionally write blog posts, but there isn't a specific topic or format. Posts can be found on my website at https://bartenbach.io
 
@@ -24,6 +24,8 @@ conf       21 mins         █▓░░░░░░░░░░░░░░░�
   <img height="25" alt="Java" src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=%23F7DF1E"/>
   <img height="25" alt="Linux" src="https://img.shields.io/badge/linux%20-%23007ACC.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
   <img height="25" alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img height="25" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
 ### 📚 Learning
@@ -36,6 +38,28 @@ conf       21 mins         █▓░░░░░░░░░░░░░░░�
 <p float="left">
   <a href="https://www.linkedin.com/in/blakebartenbach">
   <img height="25" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+### 💵 Currency
+<p float="left">
+  <a href="bc1qhjulrp4jxaqx2ex8p3zu4e4jx6gn2rsrxysxqe">
+    <img height="25" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+  </a>
+  <a href="qrcurrehge3qrw07mhzdnrhkgdkqlv2rc50wkyfugx">
+    <img height="25" alt="Bitcoin Cash" src="https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white"/>
+  </a>
+  <a href="0xD67Bc659216cc87D63cc08139D59E3c57cCC823c">
+    <img height="25" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
+  </a>
+  <a href="DMNNvjQDT2xtgSmBRhrgWQTRVBEYJ5ENZi">
+    <img height="25" alt="Dogecoin" src="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white"/>
+  </a>
+  <a href="MA6V8q6oh7DyWrvBE8gsqHbk9VMND6C4wp">
+    <img height="25" alt="Litecoin" src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white"/>
+  </a>
+  <a href="">
+    <img height="25" alt="Monero" src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white"/>
   </a>
 </p>
 
