@@ -1,7 +1,7 @@
 # ![](https://github.githubassets.com/images/mona-whisper.gif)こんにちは!
 I'm **Blake**, a 34 year old man born and raised in the sad and loney cornfields of Nebraska (just kidding, people do live here).
 
-🖊️ I occasionally write blog posts, but there really isn't a specific topic or format. Posts can be found on my website at https://bartenbach.io
+🖊️ I occasionally write blog posts, but there isn't a specific topic or format. Posts can be found on my website at https://bartenbach.io
 
 📫 How to reach me: [blakebartenbach@gmail.com](mailto:blakebartenbach@gmail.com)
 <!-- /discord/:serverId img.shields.io has discord links -->
@@ -22,7 +22,6 @@ conf       21 mins         █▓░░░░░░░░░░░░░░░�
 <p float="left">
   <img height="20" alt="Go" src="https://img.shields.io/badge/rust-%2300ADD8.svg?style=for-the-badge&logo=rust&logoColor=white"/>
   <img height="20" alt="Haskell" src="https://img.shields.io/badge/haskell-%2314354C.svg?&style=for-the-badge&logo=haskell&logoColor=white"/>
-  <img height="20" alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 ### 💬 Social
