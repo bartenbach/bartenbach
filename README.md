@@ -51,15 +51,15 @@ mail       21 mins         █▒░░░░░░░░░░░░░░░�
 
 ### 💬 Social
 <p float="left">
-  <a href="https://www.linkedin.com/in/blakebartenbach">
+  <a href="https://linkedin.com/in/blakebartenbach">
   <img height="20" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://leetcode.com/bartenbach">
     <img height="20" alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
 </p>
 
-### 💵 Tip
+### 💵 Addresses
 <p float="left">
   <sup><sub>
   <img height="15" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
