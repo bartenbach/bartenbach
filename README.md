@@ -1,9 +1,11 @@
 # ![](https://github.githubassets.com/images/mona-whisper.gif)こんにちは!
-👋 I'm **Blake Bartenbach**, a 34 year old man (read a 34-year 'old man') born and raised in Omaha, Nebraska. I currently work for 🆖 as a software engineer, mostly specializing in DevOps.
+👋 I'm **Blake Bartenbach**, a 34 year old man (read a 34-year 'old man') born and raised in Omaha, Nebraska.
+
+🏢 I currently work for 🆖 as a software engineer, mostly specializing in DevOps.
 
 🖊️ I occasionally write blog posts, but there isn't a specific topic or format. Posts can be found on my website at https://bartenbach.io
 
-📫 How to reach me: [blakebartenbach@gmail.com](mailto:blakebartenbach@gmail.com)
+📫 You can reach me at [blakebartenbach@gmail.com](mailto:blakebartenbach@gmail.com)
 <!-- /discord/:serverId img.shields.io has discord links -->
 ![](https://visitor-badge.glitch.me/badge?page_id=bartenbach.bartenbach)
 
