@@ -72,7 +72,7 @@ Python     13 mins         █░░░░░░░░░░░░░░░░�
     0xD67Bc659216cc87D63cc08139D59E3c57cCC823c<br/>
     <img height="15" alt="Dogecoin" src="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white"/>
     DMNNvjQDT2xtgSmBRhrgWQTRVBEYJ5ENZi<br/>
-    <img height="15" alt="Dash" src="	https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white"/>
+    <img height="15" alt="Dash" src="https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white"/>
     XmqyUFZKAqLUPqsioo8ERE2ezhpREUUdny<br/>
     <img height="15" alt="Litecoin" src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white"/>
     MA6V8q6oh7DyWrvBE8gsqHbk9VMND6C4wp<br/>
