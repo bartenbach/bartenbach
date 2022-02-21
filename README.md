@@ -61,7 +61,7 @@ Python     13 mins         █░░░░░░░░░░░░░░░░�
   </a>
 </p>
 
-### 💵 Addresses
+### 💵 Address Book
 <p float="left">
   <sup><sub>
   <img height="15" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
