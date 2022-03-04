@@ -67,8 +67,8 @@ sh            0 secs          ▒░░░░░░░░░░░░░░░�
 ### 💵 Address Book
 <p float="left">
   <sup><sub>
-  <img height="15" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-  bc1qhjulrp4jxaqx2ex8p3zu4e4jx6gn2rsrxysxqe<br/>
+    <img height="15" alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+    bc1qhjulrp4jxaqx2ex8p3zu4e4jx6gn2rsrxysxqe<br/>
     <img height="15" alt="Bitcoin Cash" src="https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white"/>
     qrcurrehge3qrw07mhzdnrhkgdkqlv2rc50wkyfugx<br/>
     <img height="15" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
@@ -81,6 +81,8 @@ sh            0 secs          ▒░░░░░░░░░░░░░░░�
     MA6V8q6oh7DyWrvBE8gsqHbk9VMND6C4wp<br/>
     <img height="15" alt="Monero" src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white"/>
     47t2L6cxrZe7jGmsDX741xiwF81FD9jbGKm1kiSjovwbGF96jtT89yDiu2FSyUXSM58oQSpR9zfJiCQUM5nDBav1PYLFiCH<br/>
+    <img height="15" alt="Stellar" src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white"/>
+    Address: GDOMFDILA6HHETRUAPXOCAHWXHT2UFVIBEOBWDPDLK7QD2QOXYVHZ64N Memo: 1598765214<br/>
     </sub></sup>
 </p>
 
