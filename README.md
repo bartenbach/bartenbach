@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other   0 secs          █████████████████████████   100.00 %
+Other    0 secs          ██████████████████████░░░   87.50 %
 ```
 
 <!--END_SECTION:waka-->
