@@ -15,9 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-zsh     0 secs          █████████████████▒░░░░░░░   69.33 %
-Bash    0 secs          ███████░░░░░░░░░░░░░░░░░░   28.00 %
-Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
