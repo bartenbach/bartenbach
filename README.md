@@ -15,10 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bash      2 mins          ████████████████████▒░░░░   81.82 %
-Haskell   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
-Rust      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Other     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
