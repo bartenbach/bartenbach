@@ -15,7 +15,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   0 secs          █████████████████████████   100.00 %
+Assembly   0 secs          █████████████▒░░░░░░░░░░░   53.85 %
+Bash       0 secs          ███████████▓░░░░░░░░░░░░░   46.15 %
 ```
 
 <!--END_SECTION:waka-->
