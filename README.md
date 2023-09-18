@@ -15,8 +15,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly   0 secs          █████████████▒░░░░░░░░░░░   53.85 %
-Bash       0 secs          ███████████▓░░░░░░░░░░░░░   46.15 %
+Assembly       0 secs          ███████████████████▒░░░░░   77.78 %
+ActionScript   0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
 ```
 
 <!--END_SECTION:waka-->
