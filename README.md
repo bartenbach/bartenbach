@@ -15,8 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-sh          7 mins          ████████████████████████▓   99.11 %
-gitconfig   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+gitconfig   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
