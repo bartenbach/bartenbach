@@ -15,7 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Roff     3 mins          ███████████▓░░░░░░░░░░░░░   46.74 %
+Bash     3 mins          ██████████▒░░░░░░░░░░░░░░   41.05 %
+Python   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+INI      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Other    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
