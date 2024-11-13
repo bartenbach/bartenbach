@@ -5,8 +5,6 @@
 
 🖊️ I occasionally write blog posts, but there isn't a specific topic or format. Posts can be found on my website at https://bartenbach.io
 
-🌲 I operate a Solana validator with a focus on green energy and environmental preservation: https://pumpkinspool.eco
-
 📫 You can reach me at [blakebartenbach@gmail.com](mailto:blakebartenbach@gmail.com)
 <!-- /discord/:serverId img.shields.io has discord links -->
 ![](https://visitor-badge.glitch.me/badge?page_id=bartenbach.bartenbach)
